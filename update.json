@@ -1,0 +1,15 @@
+{
+  "version": "0.1.1",
+  "notes": "เพิ่มระบบส่ง Bug Report และปรับปรุง UI ส่วนหน้า Settings",
+  "pub_date": "2026-04-25T20:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/ChampMo/OrbitKey/releases/download/v0.1.1/OrbitKey_0.1.1_x64_en-US.msi.zip"
+    },
+    "darwin-aarch64": {
+      "signature": "ยังไม่ต้องใส่ตอนนี้",
+      "url": "https://github.com/ChampMo/OrbitKey/releases/download/v0.1.1/OrbitKey_0.1.1_aarch64.app.tar.gz"
+    }
+  }
+}
