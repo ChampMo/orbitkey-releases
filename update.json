@@ -1,15 +1,15 @@
 {
-  "version": "0.1.4",
-  "notes": "Major update! 🚀 Fixed macOS Fullscreen hover & click bugs, improved Native OS window rendering, and resolved the Autostart settings bug.",
-  "pub_date": "2026-04-27T00:00:00Z",
+  "version": "0.1.5",
+  "notes": "The Smooth Orbit Update 🪐🚀 Premium splash screen, native Windows execution engine, AppleScript macOS engine, perfected focus management, and polished UI animations.",
+  "pub_date": "2026-04-28T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVi95S1hxZ3p2ajhiOU55ZEIxRDFFemxlcCtYTlB0N055eXMzRFJyRUJUblNqK25QMHUrNjBGR09oWFY4TDNGejV3N3JTQ3R6SXJJbVBqdjBJSnF5bHU1Q2VCTzZiSUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MjI0NzgwCWZpbGU6T3JiaXRLZXlfMC4xLjRfeDY0X2VuLVVTLm1zaQp3bnZGZEw5UFJmN0lPWGhZQkpMK3g3cUVwYy9QVGxjSk0xbEsyMjcrTy80bDQ4SjR0NzI1N1VOdmtlNEExL29ITkRPVThZT085VStUL0dwdEFEVEdBdz09Cg==",
-      "url": "https://github.com/ChampMo/OrbitKey/releases/download/v0.1.4/OrbitKey_0.1.4_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVi95S1hxZ3p2ajhFOUFnWUc5dTBxZTRMY1RHN3N2cTlRbS9vcG1uMHdEYTVOdytwdkVsblZqaHlxUVZtS01LT3FxUXBYa3MxaVQ4ZWx1RXBKczZ2dlJoYUdFbUl2VmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzE5NDczCWZpbGU6T3JiaXRLZXlfMC4xLjVfeDY0X2VuLVVTLm1zaQp1TldyTnFCQjk1am9WVmw3MTRmYjdtTVFaUWk0ajMraWxoNTdmY042ZFQrQlJpSVdoc0RnK3JMRTlZcWdZYmsrbE90bzM5TnpudU50RldZMkc0RWtBQT09Cg==",
+      "url": "https://github.com/ChampMo/OrbitKey/releases/download/v0.1.5/OrbitKey_0.1.5_x64_en-US.msi"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVi95S1hxZ3p2andOSHBGUXBKbkxMRWkveVFxVGhiaUVLdU42R0N2TjFqOVAwQmpSaXpNSTBXeXBuclBXdkJBRDFaYnNGMjhjcVVVMWk1UU5hNm5ka3BKYytCcTcvdUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MjI0NTIxCWZpbGU6T3JiaXRLZXkuYXBwLnRhci5nego1TEJkVnBPUXQvNm1WVjUvMy9hL3p4THdXUklZaWg4a0liRGRHbkZUY2Ruanhid0dUY0RIQndxdGlyQWxFdE1Cd1RTaFFXVzNqTEtxTy9kd0R6ZFpDQT09Cg==",
-      "url": "https://github.com/ChampMo/OrbitKey/releases/download/v0.1.4/OrbitKey_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVi95S1hxZ3p2ajVZR0RDYWNiZmhDWWtBcUx3M0RpNmhzQWhmbHczNXRNRXZqU3NTdkplRFRzUS9tS0k5dXdOekVISVNhUlJZZm1WdWh4Z1NYVUdudnVNSklIYTVJZVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzE3MTI0CWZpbGU6T3JiaXRLZXkuYXBwLnRhci5negpjTlRjZTdvMmQyckZLREdON3BGdVYyM2FiYmp1eHVtRElGc084UlBJTFZLMEgyV2pVV0tEVTlOLzVlNklyME95emNZYjZPSlNINzBLQ080OWZFOEpCQT09Cg==",
+      "url": "https://github.com/ChampMo/OrbitKey/releases/download/v0.1.5/OrbitKey_aarch64.app.tar.gz"
     }
   }
 }
