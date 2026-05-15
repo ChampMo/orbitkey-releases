@@ -1,15 +1,15 @@
 {
-  "version": "0.1.6",
-  "notes": "The UI Polish Update 🪐✨ Profile switch animations, folder expand/collapse springs, adaptive themes (Cyber Dark, Peach Milk, etc.), tray/menu bar integration, and OS-native scrolling/centering fixes.",
+  "version": "0.1.7",
+  "notes": "The Refinement Update 🪐⚙️ Run in background (silent start), Single Instance Lock, fixed Cyber-Spin upside-down bug, perfected Smooth & Spring animations, and added premium UI indicators.",
   "pub_date": "2026-05-16T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVi95S1hxZ3p2ai9HeWFWUXdqQkl0SG92NDRUTWpsQ0VBY2VXUnlVUGthUzJKOWU0dGZrSnlaWXdXM0JyT3RQMHBrMDBYMjdidFAzMHRodXR0SGgyZ0VOWStjN09aL3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODY2MTA5CWZpbGU6T3JiaXRLZXlfMC4xLjZfeDY0LXNldHVwLmV4ZQorRGk4ZWFDYVhlVnUvTXdmT0RBOVVteWRCMHBoY0hpcHYxRXo3cGFFNk56dnliSVh4Z0QxWGlQUkovUkVmYmp2RG83bjEwaVMvTmF3MFR0cys2T1JDdz09Cg==",
-      "url": "https://github.com/ChampMo/OrbitKey/releases/download/v0.1.6/OrbitKey_0.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVi95S1hxZ3p2ajhLSzlqUjBBUWw1TXYzSkhjWkY2SnRrSHVuUHV1WitheEpJc1dETTh2S2N4cjBjdUQ4aENYWUZLVUVSMnN3MWhyNG5PdENEMFpkZC92Ykh6TDllWGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODY5OTg4CWZpbGU6T3JiaXRLZXlfMC4xLjdfeDY0LXNldHVwLmV4ZQpSazA3dkZySmN6T0RTS282aHNscGpuRytBWXVKUm9uaXU4S0lEQjRBK0p0UVN2YXYvbGpiT2hKejJ5QmZaL0hrMlpldXd6NVppUG1xUzJXSU9uazlBZz09Cg==",
+      "url": "https://github.com/ChampMo/OrbitKey/releases/download/v0.1.7/OrbitKey_0.1.7_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVi95S1hxZ3p2ajgwQmQrSlNLMlhUZmNTK1JwckprcDZnM2UwQTdsZjhJV0NFb25xcitpMi9OUjU0bUlzZU9SS3FEUDVndDhQM2JnWnVvYWpjREFGNmFKck1BeUxlVGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODY1NjAwCWZpbGU6T3JiaXRLZXkuYXBwLnRhci5negppZDkzZC9QcFBwZ0pqUVdPT2NKdzVCT3lZRlVOcjN6WUczbElnb1lqZ1NqZ2N1QzVzTjMxalNQbWZxSFo0L3llMEwwWHQrbEFyaVltTVN3OTViMkNEZz09Cg==",
-      "url": "https://github.com/ChampMo/OrbitKey/releases/download/v0.1.6/OrbitKey_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVi95S1hxZ3p2ajk3akxUeGpRVm5FN1hnZlRxTXcySTdLRmNDWk81UmE0anBtUGxvK3dGNFRtQ1h6RVg5Y3lHQVA2aVVVODE4T0RlRWZIYVhFZHliYTBpVlh1NXo0REFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODY5NzA4CWZpbGU6T3JiaXRLZXkuYXBwLnRhci5negpTQXNxOVZxRnpXdDhteEQrS29XOHRjT05wdlNmWk9tL2YxbGJxZVp0dzFpQjNzN2RmSXpGT3E0NzlNZmxrdDFDOWYyd2V4a0lMR3QzcTRMQkc5dHpEUT09Cg==",
+      "url": "https://github.com/ChampMo/OrbitKey/releases/download/v0.1.7/OrbitKey_aarch64.app.tar.gz"
     }
   }
 }
